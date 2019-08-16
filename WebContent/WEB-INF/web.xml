@@ -9,14 +9,14 @@ http://java.sun.com/xml/ns/javaee/web-app_3_1.xsd"
 	<display-name>CRUD Artículos con JSP y Servlet</display-name>
 	<context-param>
 		<param-name>jdbcURL</param-name>
-		<param-value>jdbc:mysql://localhost:3306/test</param-value>
+		<param-value>jdbc:mysql://fugfonv8odxxolj8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/tsz09mfzrbwfik4s</param-value>
 	</context-param>
 	<context-param>
 		<param-name>jdbcUsername</param-name>
-		<param-value>root</param-value>
+		<param-value>vbt0n5zggko73ifr</param-value>
 	</context-param>
 	<context-param>
 		<param-name>jdbcPassword</param-name>
-		<param-value></param-value>
+		<param-value>mux0p94amodeinax</param-value>
 	</context-param>
 </web-app>
